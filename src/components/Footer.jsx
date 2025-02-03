@@ -1,6 +1,5 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faFacebook, faLinkedin, faTwitter,faGithub } from '@fortawesome/free-brands-svg-icons';
-import { FaDiscord } from "react-icons/fa";
 
 export default function Footer(){
     return (
