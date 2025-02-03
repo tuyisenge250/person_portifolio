@@ -1,5 +1,4 @@
 import React from "react"
-import { FaAlignJustify } from "react-icons/fa";
 
 export default function Header(){
    // const [menu, setMenu] = React.useState(false)
