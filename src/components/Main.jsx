@@ -7,7 +7,6 @@ import Service from "./Services";
 import Education from "./Education"
 import { educationInfo } from "../EducationInfo";
 import { useState } from "react";
-import Progress from "./Progress";
 import { faGithub } from '@fortawesome/free-brands-svg-icons';
 import html  from "../assets/Html.png"
 import css from "../assets/css.png"

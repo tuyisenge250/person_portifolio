@@ -1,9 +1,3 @@
-// name={lev.name} 
-// location={lev.location}
-// level={lev.level}
-// courses={lev.courses}
-// description={lev.description}
-
 export default function Education(props){
     return (
         <div className="education-content">
