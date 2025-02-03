@@ -21,7 +21,6 @@ import extension from "../assets/google_extension.png"
 import Footer from "./Footer";
 import Contact from "./contact";
 import resume from "../assets/resume.pdf"
-import { FaAlignJustify } from "react-icons/fa";
 
 
 export default function Main(){
