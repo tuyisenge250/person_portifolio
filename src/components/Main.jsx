@@ -72,12 +72,12 @@ export default function Main(){
                 <Service 
                    Icon={<FontAwesomeIcon icon={faCode} color="#D6B11C" size="2x"/>}
                    title="Back-end dev"
-                   describe=" I offer frontend development services, crafting visually appealing and responsive web applications using React.js, Vue.js, HTML, CSS, and JavaScript, focused on delivering seamless user experiences."
+                   describe=" As a backend service provider, you deliver robust and scalable solutions tailored to meet customer needs, specializing in building efficient APIs, secure authentication systems, and seamless database integrations."
                 />
                 <Service 
                    Icon={<FontAwesomeIcon icon={faServer}  color="#D6B11C" size="2x"/>}
                    title="Devops dev"
-                   describe=" I offer frontend development services, crafting visually appealing and responsive web applications using React.js, Vue.js, HTML, CSS, and JavaScript, focused on delivering seamless user experiences."
+                   describe="As a DevOps service provider, you specialize in streamlining software development and IT operations to ensure efficient and scalable systems. You bring expertise in automation, CI/CD pipelines and cloud solutions to help businesses achieve faster deployment and operational excellence."
                 />
             </section>
             <p className="features" id="education">______About me</p>
